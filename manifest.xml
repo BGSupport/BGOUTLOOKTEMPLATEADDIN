@@ -2,13 +2,13 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>a6dfda5e-9f63-417d-a61c-8993f2f6900c</Id>
   <Version>1.0.0.5</Version>
-  <ProviderName>Contoso</ProviderName>
+  <ProviderName>Broadgrain Commodities Inc.</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="My Broadgrain Outlook Templates"/>
   <Description DefaultValue="Create, manage, and apply response templates stored in your OneDrive app folder."/>
   <IconUrl DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-64.png?v=1.0.0.5"/>
   <HighResolutionIconUrl DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-128.png?v=1.0.0.5"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue="https://broadgrain.com/"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
     <AppDomain>https://login.microsoftonline.com</AppDomain>
@@ -107,7 +107,7 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
+        <bt:String id="GroupLabel" DefaultValue="Broadgrain Commodites Inc Add-in"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="BG Outlook Templates"/>
         <bt:String id="ActionButton.Label" DefaultValue="Perform an action"/>
         <bt:String id="ComposeGroupLabel" DefaultValue="Templates"/>
