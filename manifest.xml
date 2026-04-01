@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>a6dfda5e-9f63-417d-a61c-8993f2f6900c</Id>
-  <Version>1.0.0.6</Version>
-  <ProviderName>Broadgrain Commodities Inc.</ProviderName>
+  <Version>1.0.0.7</Version>
+  <ProviderName>BroadGrain Commodities Inc.</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="My Broadgrain Outlook Templates"/>
+  <DisplayName DefaultValue="My BroadGrain Outlook Templates"/>
   <Description DefaultValue="Create, manage, and apply response templates stored in your OneDrive app folder."/>
-  <IconUrl DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-64.png?v=1.0.0.5"/>
-  <HighResolutionIconUrl DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-128.png?v=1.0.0.5"/>
+  <IconUrl DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-64.png?v=1.0.0.7"/>
+  <HighResolutionIconUrl DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-128.png?v=1.0.0.7"/>
   <SupportUrl DefaultValue="https://broadgrain.com/"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
@@ -98,25 +98,25 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-16.png?v=1.0.0.5"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-32.png?v=1.0.0.5"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-80.png?v=1.0.0.5"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-16.png?v=1.0.0.7"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-32.png?v=1.0.0.7"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/assets/icon-80.png?v=1.0.0.7"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/commands.html"/>
         <bt:Url id="Taskpane.Url" DefaultValue="https://bgsupport.github.io/BGOUTLOOKTEMPLATEADDIN/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="Broadgrain Commodites Inc Add-in"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="BG Outlook Templates"/>
+        <bt:String id="GroupLabel" DefaultValue="BroadGrain Commodities Inc. Add-in"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="My BG Outlook Templates"/>
         <bt:String id="ActionButton.Label" DefaultValue="Perform an action"/>
         <bt:String id="ComposeGroupLabel" DefaultValue="Templates"/>
-        <bt:String id="ComposeTaskpaneButton.Label" DefaultValue="BG Outlook Templates"/>
+        <bt:String id="ComposeTaskpaneButton.Label" DefaultValue="My BG Outlook Templates"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane for BG Outlook Templates."/>
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane for My BG Outlook Templates."/>
         <bt:String id="ActionButton.Tooltip" DefaultValue="Perform an action when clicked."/>
-        <bt:String id="ComposeTaskpaneButton.Tooltip" DefaultValue="Open BG Outlook Templates while composing."/>
+        <bt:String id="ComposeTaskpaneButton.Tooltip" DefaultValue="Open My BG Outlook Templates while composing."/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
